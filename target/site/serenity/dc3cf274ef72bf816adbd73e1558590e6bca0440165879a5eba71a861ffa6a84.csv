@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores test","Verify 'Not found' error message with invalid endpoint","SUCCESS","2020-05-30T11:09:05.120+01:00[Europe/London]","0.0","0.29"
+"Stores test","This test will delete the store using storeId","SUCCESS","2020-05-30T11:09:05.476+01:00[Europe/London]","0.0","1.83"
+"Stores test","This test will get all stores","SUCCESS","2020-05-30T11:09:07.305+01:00[Europe/London]","0.0","0.13"
+"Stores test","This test will update a name of an existing store","SUCCESS","2020-05-30T11:09:07.444+01:00[Europe/London]","0.0","0.79"
+"Stores test","This test will create a new product","SUCCESS","2020-05-30T11:09:08.237+01:00[Europe/London]","0.0","0.34"
+"Stores test","This test will get a specific product by Id","SUCCESS","2020-05-30T11:09:08.580+01:00[Europe/London]","0.0","0.42"

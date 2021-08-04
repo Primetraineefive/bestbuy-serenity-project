@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product test","This test will create a new product","SUCCESS","2020-05-30T11:09:01.463+01:00[Europe/London]","0.0","0.35"
+"Product test","This test will update a name of an existing product","SUCCESS","2020-05-30T11:09:01.818+01:00[Europe/London]","0.0","2.53"
+"Stores test","This test will update a name of an existing store","SUCCESS","2020-05-30T11:09:07.444+01:00[Europe/London]","0.0","0.79"
+"Stores test","This test will create a new product","SUCCESS","2020-05-30T11:09:08.237+01:00[Europe/London]","0.0","0.34"
